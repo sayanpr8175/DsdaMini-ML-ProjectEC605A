@@ -9,14 +9,14 @@ My 6th Semester mini Project on Subject Data Science and Data Analytics Predicti
 </p>
 ### 🎪 <a href="https://github.com/sayanpr8175"> [GITHUB - HOME] </a>
 
-> SIMPLE MACHINE LEARNING BASED MODEL TO DETERMINE / PREDICT THE OCCUPANCY OF HOTEL ROOM DEPENDING ON > THE WEATHER PARAMETERS
+> SIMPLE MACHINE LEARNING BASED MODEL TO DETERMINE / PREDICT THE OCCUPANCY OF HOTEL ROOM DEPENDING ON THE WEATHER PARAMETERS
 
 > DEEP LEARNING BASED  MODEL TO DETERMINE / PREDICT THE OCCUPANCY OF HOTEL ROOM...AS PREVIOUS
 
 ## ABOUT DATASET
 >   <a href="https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+"> [DATASET LINK UCI ML REPOSITORY] </a>
 
-# Experimental data used for binary classification (room occupancy) from Temperature,Humidity,Light and CO2. Ground-truth occupancy was obtained from time stamped pictures that were taken every minute
+ Experimental data used for binary classification (room occupancy) from Temperature,Humidity,Light and CO2. Ground-truth occupancy was obtained from time stamped pictures that were taken every minute
 
 ## ATTRIBUTE INFORMATION
 date time year-month-day hour:minute:second
